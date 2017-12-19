@@ -4,7 +4,7 @@ machine:
     # project and documentation.
     USERNAME: "numairmansur"
 
-    # The repository where the documentation will be hosted
+    # The repository where the documentation will be hosted+
     DOC_REPO: "RoBO"
 
     # The base URL for the Github page where the documentation will be hosted
